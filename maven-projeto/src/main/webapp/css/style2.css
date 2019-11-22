@@ -1,0 +1,15 @@
+ .parallax-container {
+      height: 600px;
+    }
+   .red {
+ background: url('http://www.tradeinterint.com/wp-content/uploads/2017/03/industrial-servicee-1.jpg'); 
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+#modal1 { width: 30% !important ; height: 60% !important ; } 
+#modal2 { width: 30% !important ; height: 100% !important ; } 
+#minhaDiv{
+	display: none;
+}
+
